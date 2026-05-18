@@ -1,6 +1,6 @@
 {
   "buildCommand": "",
-  "cleanUrls": true,
+  "cleanUrls": false,
   "trailingSlash": false,
   "redirects": [
     { "source": "/seo", "destination": "/dadybox/seo", "permanent": false },
